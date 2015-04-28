@@ -1,2 +1,2 @@
 # devSpringTemplete
-this is templetes of spring
+just started using github.com
